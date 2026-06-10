@@ -1,0 +1,86 @@
+{
+    "ADBE": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-11",
+        "days_until": 9,
+        "desc": "Automated Catalyst: ADBE upcoming Q earnings in 9 days."
+    },
+    "AVGO": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-03",
+        "days_until": 1,
+        "desc": "Automated Catalyst: AVGO upcoming Q earnings in 1 days."
+    },
+    "CASY": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-09",
+        "days_until": 7,
+        "desc": "Automated Catalyst: CASY upcoming Q earnings in 7 days."
+    },
+    "BF-B": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-04",
+        "days_until": 2,
+        "desc": "Automated Catalyst: BF-B upcoming Q earnings in 2 days."
+    },
+    "CPB": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-08",
+        "days_until": 6,
+        "desc": "Automated Catalyst: CPB upcoming Q earnings in 6 days."
+    },
+    "CIEN": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-04",
+        "days_until": 2,
+        "desc": "Automated Catalyst: CIEN upcoming Q earnings in 2 days."
+    },
+    "COO": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-04",
+        "days_until": 2,
+        "desc": "Automated Catalyst: COO upcoming Q earnings in 2 days."
+    },
+    "CRWD": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-03",
+        "days_until": 1,
+        "desc": "Automated Catalyst: CRWD upcoming Q earnings in 1 days."
+    },
+    "LULU": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-04",
+        "days_until": 2,
+        "desc": "Automated Catalyst: LULU upcoming Q earnings in 2 days."
+    },
+    "MDT": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-03",
+        "days_until": 1,
+        "desc": "Automated Catalyst: MDT upcoming Q earnings in 1 days."
+    },
+    "PANW": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-02",
+        "days_until": 0,
+        "desc": "Automated Catalyst: PANW upcoming Q earnings in 0 days."
+    },
+    "SJM": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-09",
+        "days_until": 7,
+        "desc": "Automated Catalyst: SJM upcoming Q earnings in 7 days."
+    },
+    "ULTA": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-02",
+        "days_until": 0,
+        "desc": "Automated Catalyst: ULTA upcoming Q earnings in 0 days."
+    },
+    "VEEV": {
+        "direction": "CALL",
+        "earnings_date": "2026-06-03",
+        "days_until": 1,
+        "desc": "Automated Catalyst: VEEV upcoming Q earnings in 1 days."
+    }
+}

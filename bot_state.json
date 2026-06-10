@@ -1,0 +1,16 @@
+{
+    "portfolio_phase": 2,
+    "current_cash": 997339.45,
+    "debt_paid": true,
+    "total_withdrawn": 5500.0,
+    "active_positions": {
+        "GME": {
+            "qty": 1,
+            "cost_basis": 1.06875,
+            "entry_date": "2026-06-01",
+            "type": "options"
+        }
+    },
+    "transaction_log": [],
+    "last_withdrawal_month": 6
+}

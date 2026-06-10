@@ -1,0 +1,39 @@
+
+================================================================================
+================================================================================
+
+This log file is located at:
+
+    C:\IBC\Logs\IBC-3.23.0_GATEWAY-1019_TUESDAY.txt
+
+
+================================================================================
+
+Starting IBC version 3.23.0 on Tue 2026/06/02 at 10:41:34.16
+
+Operating system:  Microsoft Windows Server 2016 Standard Evaluation 10.0.14393 64-bit        
+
+Arguments:
+
+TWS version = 1019
+Program = Gateway
+Entry point = ibcalpha.ibc.IbcGateway
+/TwsPath = C:\Jts
+/TwsSettingsPath = 
+/IbcPath = C:\IBC
+/Config = C:\Users\Administrator\Documents\IBC\config.ini
+/Mode = 
+/JavaPath = 
+/User =
+/PW =
+/FIXUser =
+/FIXPW =
+
+
+=========================== An error has occurred =============================
+
+
+
+Error: Offline TWS/Gateway version 1019 is not installed: can't find jars folder 
+       Make sure you install the offline version of TWS/Gateway
+       IBC does not work with the auto-updating TWS/Gateway

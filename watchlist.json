@@ -1,0 +1,1969 @@
+{
+    "SOXL": {
+        "Name": "Direxion Daily Semiconductor Bull 3X Shares",
+        "Sector": "Semiconductors",
+        "Type": "ETF",
+        "Thesis": "Leveraged instrument to capture macro chip cycles and sector pullbacks.",
+        "DateAdded": "2026-06-01"
+    },
+    "TQQQ": {
+        "Name": "ProShares UltraPro QQQ",
+        "Sector": "Technology",
+        "Type": "ETF",
+        "Thesis": "Leveraged instrument to capture broad Nasdaq structural bull runs.",
+        "DateAdded": "2026-06-01"
+    },
+    "NVDA": {
+        "Name": "NVIDIA Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AVGO": {
+        "Name": "Broadcom Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ENPH": {
+        "Name": "Enphase Energy, Inc.",
+        "Sector": "Clean Energy",
+        "Type": "Stock",
+        "Thesis": "Solar microinverter bottleneck.",
+        "DateAdded": "2026-06-01"
+    },
+    "RYCEY": {
+        "Name": "Rolls-Royce Holdings plc",
+        "Sector": "Aerospace & Defense",
+        "Type": "Stock",
+        "Thesis": "Wide-body aircraft turbine aftermarket bottleneck.",
+        "DateAdded": "2026-06-01"
+    },
+    "GME": {
+        "Name": "GameStop Corp.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "High-retail-attention volatility catalyst play.",
+        "DateAdded": "2026-06-01"
+    },
+    "MVIS": {
+        "Name": "MicroVision, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Speculative high-beta Lidar IP play.",
+        "DateAdded": "2026-06-01"
+    },
+    "VRT": {
+        "Name": "Vertiv Holdings Co",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HUBB": {
+        "Name": "Hubbell Incorporated",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PH": {
+        "Name": "Parker-Hannifin Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HWM": {
+        "Name": "Howmet Aerospace Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ABT": {
+        "Name": "Abbott Laboratories",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AFL": {
+        "Name": "Aflac Incorporated",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ADBE": {
+        "Name": "Adobe Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ACN": {
+        "Name": "Accenture plc",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ABNB": {
+        "Name": "Airbnb, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "A": {
+        "Name": "Agilent Technologies, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GOOGL": {
+        "Name": "Alphabet Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AOS": {
+        "Name": "A. O. Smith Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ALGN": {
+        "Name": "Align Technology, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ABBV": {
+        "Name": "AbbVie Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ALLE": {
+        "Name": "Allegion plc",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AMD": {
+        "Name": "Advanced Micro Devices, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ALL": {
+        "Name": "The Allstate Corporation",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AMZN": {
+        "Name": "Amazon.com, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MO": {
+        "Name": "Altria Group, Inc.",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GOOG": {
+        "Name": "Alphabet Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AIG": {
+        "Name": "American International Group, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AAPL": {
+        "Name": "Apple Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AME": {
+        "Name": "AMETEK, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ADI": {
+        "Name": "Analog Devices, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "APH": {
+        "Name": "Amphenol Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AON": {
+        "Name": "Aon plc",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AMP": {
+        "Name": "Ameriprise Financial, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AMAT": {
+        "Name": "Applied Materials, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "APA": {
+        "Name": "APA Corporation",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "APP": {
+        "Name": "AppLovin Corporation",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ACGL": {
+        "Name": "Arch Capital Group Ltd.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ANET": {
+        "Name": "Arista Networks, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ADSK": {
+        "Name": "Autodesk, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AJG": {
+        "Name": "Arthur J. Gallagher & Co.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BKR": {
+        "Name": "Baker Hughes Company",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "T": {
+        "Name": "AT&T Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "AVY": {
+        "Name": "Avery Dennison Corporation",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ADP": {
+        "Name": "Automatic Data Processing, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TECH": {
+        "Name": "Bio-Techne Corporation",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BIIB": {
+        "Name": "Biogen Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BRK-B": {
+        "Name": "Berkshire Hathaway Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BBY": {
+        "Name": "Best Buy Co., Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BDX": {
+        "Name": "Becton, Dickinson and Company",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BR": {
+        "Name": "Broadridge Financial Solutions, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BKNG": {
+        "Name": "Booking Holdings Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BSX": {
+        "Name": "Boston Scientific Corporation",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BLK": {
+        "Name": "BlackRock, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BRO": {
+        "Name": "Brown & Brown, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "BF-B": {
+        "Name": "Brown-Forman Corporation",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CPB": {
+        "Name": "The Campbell's Company",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CDNS": {
+        "Name": "Cadence Design Systems, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CF": {
+        "Name": "CF Industries Holdings, Inc.",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CBOE": {
+        "Name": "Cboe Global Markets, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CARR": {
+        "Name": "Carrier Global Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CVNA": {
+        "Name": "Carvana Co.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CRL": {
+        "Name": "Charles River Laboratories International, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CASY": {
+        "Name": "Casey's General Stores, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CVX": {
+        "Name": "Chevron Corporation",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CHD": {
+        "Name": "Church & Dwight Co., Inc.",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CB": {
+        "Name": "Chubb Limited",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CIEN": {
+        "Name": "Ciena Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CME": {
+        "Name": "CME Group Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CTSH": {
+        "Name": "Cognizant Technology Solutions Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CSCO": {
+        "Name": "Cisco Systems, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "KO": {
+        "Name": "The Coca-Cola Company",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CINF": {
+        "Name": "Cincinnati Financial Corporation",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "COIN": {
+        "Name": "Coinbase Global, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CTAS": {
+        "Name": "Cintas Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CMCSA": {
+        "Name": "Comcast Corporation",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FIX": {
+        "Name": "Comfort Systems USA, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "COP": {
+        "Name": "ConocoPhillips",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CPRT": {
+        "Name": "Copart, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GLW": {
+        "Name": "Corning Incorporated",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "STZ": {
+        "Name": "Constellation Brands, Inc.",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CTVA": {
+        "Name": "Corteva, Inc.",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "COO": {
+        "Name": "The Cooper Companies, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CSGP": {
+        "Name": "CoStar Group, Inc.",
+        "Sector": "Real Estate",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Real Estate passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CRH": {
+        "Name": "CRH plc",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CRWD": {
+        "Name": "CrowdStrike Holdings, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CSX": {
+        "Name": "CSX Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CMI": {
+        "Name": "Cummins Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DDOG": {
+        "Name": "Datadog, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DHR": {
+        "Name": "Danaher Corporation",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DECK": {
+        "Name": "Deckers Outdoor Corporation",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DVN": {
+        "Name": "Devon Energy Corporation",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DXCM": {
+        "Name": "DexCom, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FANG": {
+        "Name": "Diamondback Energy, Inc.",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DASH": {
+        "Name": "DoorDash, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DOV": {
+        "Name": "Dover Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DHI": {
+        "Name": "D.R. Horton, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EBAY": {
+        "Name": "eBay Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ETN": {
+        "Name": "Eaton Corporation plc",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EW": {
+        "Name": "Edwards Lifesciences Corporation",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ELV": {
+        "Name": "Elevance Health, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EA": {
+        "Name": "Electronic Arts Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ECL": {
+        "Name": "Ecolab Inc.",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EQT": {
+        "Name": "EQT Corporation",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EPAM": {
+        "Name": "EPAM Systems, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EMR": {
+        "Name": "Emerson Electric Co.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EOG": {
+        "Name": "EOG Resources, Inc.",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EFX": {
+        "Name": "Equifax Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "EXE": {
+        "Name": "Expand Energy Corporation",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FAST": {
+        "Name": "Fastenal Company",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "XOM": {
+        "Name": "Exxon Mobil Corporation",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FICO": {
+        "Name": "Fair Isaac Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FDX": {
+        "Name": "FedEx Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FDS": {
+        "Name": "FactSet Research Systems Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FFIV": {
+        "Name": "F5, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FSLR": {
+        "Name": "First Solar, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FTNT": {
+        "Name": "Fortinet, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FOX": {
+        "Name": "Fox Corporation",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FCX": {
+        "Name": "Freeport-McMoRan Inc.",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FTV": {
+        "Name": "Fortive Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "FOXA": {
+        "Name": "Fox Corporation",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GE": {
+        "Name": "GE Aerospace",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GRMN": {
+        "Name": "Garmin Ltd.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GEV": {
+        "Name": "GE Vernova Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GNRC": {
+        "Name": "Generac Holdings Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GEHC": {
+        "Name": "GE HealthCare Technologies Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HSIC": {
+        "Name": "Henry Schein, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GPC": {
+        "Name": "Genuine Parts Company",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GILD": {
+        "Name": "Gilead Sciences, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HIG": {
+        "Name": "The Hartford Insurance Group, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GL": {
+        "Name": "Globe Life Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HPE": {
+        "Name": "Hewlett Packard Enterprise Company",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HSY": {
+        "Name": "The Hershey Company",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HCA": {
+        "Name": "HCA Healthcare, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HST": {
+        "Name": "Host Hotels & Resorts, Inc.",
+        "Sector": "Real Estate",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Real Estate passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "HPQ": {
+        "Name": "HP Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "IDXX": {
+        "Name": "IDEXX Laboratories, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "IEX": {
+        "Name": "IDEX Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "IR": {
+        "Name": "Ingersoll Rand Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "INCY": {
+        "Name": "Incyte Corporation",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PODD": {
+        "Name": "Insulet Corporation",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ICE": {
+        "Name": "Intercontinental Exchange, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "INTU": {
+        "Name": "Intuit Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "IP": {
+        "Name": "International Paper Company",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "JNJ": {
+        "Name": "Johnson & Johnson",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "JKHY": {
+        "Name": "Jack Henry & Associates, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "JCI": {
+        "Name": "Johnson Controls International plc",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "IVZ": {
+        "Name": "Invesco Ltd.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ISRG": {
+        "Name": "Intuitive Surgical, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "IFF": {
+        "Name": "International Flavors & Fragrances Inc.",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "KVUE": {
+        "Name": "Kenvue Inc.",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "KEYS": {
+        "Name": "Keysight Technologies, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "J": {
+        "Name": "Jacobs Solutions Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "KLAC": {
+        "Name": "KLA Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "KHC": {
+        "Name": "The Kraft Heinz Company",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "LH": {
+        "Name": "Labcorp Holdings Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "LRCX": {
+        "Name": "Lam Research Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "LII": {
+        "Name": "Lennox International Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "LIN": {
+        "Name": "Linde plc",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "LLY": {
+        "Name": "Eli Lilly and Company",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "L": {
+        "Name": "Loews Corporation",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "LOW": {
+        "Name": "Lowe's Companies, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "LULU": {
+        "Name": "lululemon athletica inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MLM": {
+        "Name": "Martin Marietta Materials, Inc.",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MAR": {
+        "Name": "Marriott International, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MCD": {
+        "Name": "McDonald's Corporation",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MRSH": {
+        "Name": "Marsh & McLennan Companies, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "LITE": {
+        "Name": "Lumentum Holdings Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MKC": {
+        "Name": "McCormick & Company, Incorporated",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "META": {
+        "Name": "Meta Platforms, Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MDT": {
+        "Name": "Medtronic plc",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MTD": {
+        "Name": "Mettler-Toledo International Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MRK": {
+        "Name": "Merck & Co., Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MU": {
+        "Name": "Micron Technology, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MSFT": {
+        "Name": "Microsoft Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MSCI": {
+        "Name": "MSCI Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TAP": {
+        "Name": "Molson Coors Beverage Company",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MNST": {
+        "Name": "Monster Beverage Corporation",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MPWR": {
+        "Name": "Monolithic Power Systems, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "MDLZ": {
+        "Name": "Mondelez International, Inc.",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NDAQ": {
+        "Name": "Nasdaq, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NTAP": {
+        "Name": "NetApp, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NWS": {
+        "Name": "News Corporation",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NFLX": {
+        "Name": "Netflix, Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NEM": {
+        "Name": "Newmont Corporation",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NWSA": {
+        "Name": "News Corporation",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NKE": {
+        "Name": "NIKE, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NDSN": {
+        "Name": "Nordson Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NSC": {
+        "Name": "Norfolk Southern Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ORLY": {
+        "Name": "O'Reilly Automotive, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NVR": {
+        "Name": "NVR, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NXPI": {
+        "Name": "NXP Semiconductors N.V.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NOC": {
+        "Name": "Northrop Grumman Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ON": {
+        "Name": "ON Semiconductor Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ODFL": {
+        "Name": "Old Dominion Freight Line, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "OTIS": {
+        "Name": "Otis Worldwide Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "OXY": {
+        "Name": "Occidental Petroleum Corporation",
+        "Sector": "Energy",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Energy passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PKG": {
+        "Name": "Packaging Corporation of America",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PLTR": {
+        "Name": "Palantir Technologies Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PANW": {
+        "Name": "Palo Alto Networks, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PNR": {
+        "Name": "Pentair plc",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PYPL": {
+        "Name": "PayPal Holdings, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PM": {
+        "Name": "Philip Morris International Inc.",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PFE": {
+        "Name": "Pfizer Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "POOL": {
+        "Name": "Pool Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PPG": {
+        "Name": "PPG Industries, Inc.",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PFG": {
+        "Name": "Principal Financial Group, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PRU": {
+        "Name": "Prudential Financial, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PG": {
+        "Name": "The Procter & Gamble Company",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PSA": {
+        "Name": "Public Storage",
+        "Sector": "Real Estate",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Real Estate passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PTC": {
+        "Name": "PTC Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "PHM": {
+        "Name": "PulteGroup, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "Q": {
+        "Name": "Qnity Electronics, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "QCOM": {
+        "Name": "QUALCOMM Incorporated",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "RL": {
+        "Name": "Ralph Lauren Corporation",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "RTX": {
+        "Name": "RTX Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DGX": {
+        "Name": "Quest Diagnostics Incorporated",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "REGN": {
+        "Name": "Regeneron Pharmaceuticals, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "RSG": {
+        "Name": "Republic Services, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "RVTY": {
+        "Name": "Revvity, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ROK": {
+        "Name": "Rockwell Automation, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ROL": {
+        "Name": "Rollins, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ROP": {
+        "Name": "Roper Technologies, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ROST": {
+        "Name": "Ross Stores, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "RMD": {
+        "Name": "ResMed Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "CRM": {
+        "Name": "Salesforce, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "SNDK": {
+        "Name": "Sandisk Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "SPGI": {
+        "Name": "S&P Global Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "NOW": {
+        "Name": "ServiceNow, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "SWKS": {
+        "Name": "Skyworks Solutions, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "SNA": {
+        "Name": "Snap-on Incorporated",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "SJM": {
+        "Name": "The J. M. Smucker Company",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "SWK": {
+        "Name": "Stanley Black & Decker, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "SYK": {
+        "Name": "Stryker Corporation",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "STE": {
+        "Name": "STERIS plc",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TTWO": {
+        "Name": "Take-Two Interactive Software, Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TROW": {
+        "Name": "T. Rowe Price Group, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TER": {
+        "Name": "Teradyne, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TDY": {
+        "Name": "Teledyne Technologies Incorporated",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TXN": {
+        "Name": "Texas Instruments Incorporated",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TGT": {
+        "Name": "Target Corporation",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TEL": {
+        "Name": "TE Connectivity plc",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TT": {
+        "Name": "Trane Technologies plc",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TKO": {
+        "Name": "TKO Group Holdings, Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TTD": {
+        "Name": "The Trade Desk, Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TRV": {
+        "Name": "The Travelers Companies, Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TMO": {
+        "Name": "Thermo Fisher Scientific Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TJX": {
+        "Name": "The TJX Companies, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TYL": {
+        "Name": "Tyler Technologies, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "TRMB": {
+        "Name": "Trimble Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "UBER": {
+        "Name": "Uber Technologies, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ULTA": {
+        "Name": "Ulta Beauty, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "UPS": {
+        "Name": "United Parcel Service, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "UAL": {
+        "Name": "United Airlines Holdings, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "UNP": {
+        "Name": "Union Pacific Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "URI": {
+        "Name": "United Rentals, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "UHS": {
+        "Name": "Universal Health Services, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "VEEV": {
+        "Name": "Veeva Systems Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "VLTO": {
+        "Name": "Veralto Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "VRSN": {
+        "Name": "VeriSign, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "VRSK": {
+        "Name": "Verisk Analytics, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "VTRS": {
+        "Name": "Viatris Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "VZ": {
+        "Name": "Verizon Communications Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "V": {
+        "Name": "Visa Inc.",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "VRTX": {
+        "Name": "Vertex Pharmaceuticals Incorporated",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WRB": {
+        "Name": "W. R. Berkley Corporation",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "VMC": {
+        "Name": "Vulcan Materials Company",
+        "Sector": "Basic Materials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Basic Materials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "GWW": {
+        "Name": "W.W. Grainger, Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WMT": {
+        "Name": "Walmart Inc.",
+        "Sector": "Consumer Defensive",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Defensive passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "DIS": {
+        "Name": "The Walt Disney Company",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WBD": {
+        "Name": "Warner Bros. Discovery, Inc.",
+        "Sector": "Communication Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Communication Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WST": {
+        "Name": "West Pharmaceutical Services, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WAB": {
+        "Name": "Westinghouse Air Brake Technologies Corporation",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WDC": {
+        "Name": "Western Digital Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WSM": {
+        "Name": "Williams-Sonoma, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Consumer Cyclical passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WTW": {
+        "Name": "Willis Towers Watson Public Limited Company",
+        "Sector": "Financial Services",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Financial Services passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "XYL": {
+        "Name": "Xylem Inc.",
+        "Sector": "Industrials",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Industrials passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "WDAY": {
+        "Name": "Workday, Inc.",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ZBH": {
+        "Name": "Zimmer Biomet Holdings, Inc.",
+        "Sector": "Healthcare",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Healthcare passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    },
+    "ZBRA": {
+        "Name": "Zebra Technologies Corporation",
+        "Sector": "Technology",
+        "Type": "Stock",
+        "Thesis": "Dynamic secular leader in Technology passing all automated solvency gates.",
+        "DateAdded": "2026-06-02"
+    }
+}

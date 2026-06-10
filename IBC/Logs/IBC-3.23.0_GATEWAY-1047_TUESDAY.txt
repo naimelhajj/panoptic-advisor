@@ -1,0 +1,37 @@
+
+================================================================================
+================================================================================
+
+This log file is located at:
+
+    C:\IBC\Logs\IBC-3.23.0_GATEWAY-1047_TUESDAY.txt
+
+
+================================================================================
+
+Starting IBC version 3.23.0 on Tue 2026/06/02 at 10:45:18.03
+
+Operating system:  Microsoft Windows Server 2016 Standard Evaluation 10.0.14393 64-bit        
+
+Arguments:
+
+TWS version = 1047
+Program = Gateway
+Entry point = ibcalpha.ibc.IbcGateway
+/TwsPath = C:\Jts
+/TwsSettingsPath = 
+/IbcPath = C:\IBC
+/Config = C:\Users\Administrator\Documents\IBC\config.ini
+/Mode = 
+/JavaPath = 
+/User =
+/PW =
+/FIXUser =
+/FIXPW =
+
+
+=========================== An error has occurred =============================
+
+
+
+Error: IBC configuration file: C:\Users\Administrator\Documents\IBC\config.ini  does not exist 

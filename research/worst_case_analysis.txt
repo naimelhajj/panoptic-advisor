@@ -1,0 +1,120 @@
+
+========================================
+Run 2024-07-08 to 2025-07-09 | Final Val: $1910.39
+========================================
+[2024-07-24] BUY SHARES: SOXL Qty 100 at $42.42 | Comm: $1.00
+[2024-07-24] BUY SHARES: TQQQ Qty 19 at $32.19 | Comm: $1.00
+[2024-08-23] SELL SHARES: TQQQ Qty 19 at $34.69 | Comm: $1.00
+[2024-09-03] SELL SHARES: SOXL Qty 100 at $29.74 | Comm: $1.00
+[2024-09-10] BUY SHARES: TQQQ Qty 107 at $29.85 | Comm: $1.00
+[2024-09-24] SELL SHARES: TQQQ Qty 107 at $35.24 | Comm: $1.00
+[2024-09-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2024-10-11] SELL OPTION: SOXL Qty 6 at $1.73 | Comm: $3.90
+[2025-01-07] BUY SHARES: TQQQ Qty 89 at $39.91 | Comm: $1.00
+[2025-02-14] SELL SHARES: TQQQ Qty 89 at $44.47 | Comm: $1.00
+[2025-02-18] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-03-04] SELL OPTION: SOXL Qty 6 at $5.11 | Comm: $3.90
+[2025-05-01] BUY PUT OPTION (BEAR HEDGE): TQQQ Qty 9 contracts at $2.00 | Comm: $5.85
+[2025-05-07] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-05-15] SELL OPTION: TQQQ Qty 9 at $0.00 | Comm: $5.85
+[2025-05-21] SELL OPTION: SOXL Qty 6 at $0.00 | Comm: $3.90
+[2025-05-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 5 contracts at $2.00 | Comm: $3.25
+[2025-06-10] SELL OPTION: SOXL Qty 5 at $0.00 | Comm: $3.25
+[2025-06-11] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 3 contracts at $2.00 | Comm: $1.95
+[2025-06-26] SELL OPTION: SOXL Qty 3 at $0.32 | Comm: $1.95
+
+========================================
+Run 2024-07-23 to 2025-07-24 | Final Val: $1910.39
+========================================
+[2024-07-24] BUY SHARES: SOXL Qty 100 at $42.42 | Comm: $1.00
+[2024-07-24] BUY SHARES: TQQQ Qty 19 at $32.19 | Comm: $1.00
+[2024-08-23] SELL SHARES: TQQQ Qty 19 at $34.69 | Comm: $1.00
+[2024-09-03] SELL SHARES: SOXL Qty 100 at $29.74 | Comm: $1.00
+[2024-09-10] BUY SHARES: TQQQ Qty 107 at $29.85 | Comm: $1.00
+[2024-09-24] SELL SHARES: TQQQ Qty 107 at $35.24 | Comm: $1.00
+[2024-09-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2024-10-11] SELL OPTION: SOXL Qty 6 at $1.73 | Comm: $3.90
+[2025-01-07] BUY SHARES: TQQQ Qty 89 at $39.91 | Comm: $1.00
+[2025-02-14] SELL SHARES: TQQQ Qty 89 at $44.47 | Comm: $1.00
+[2025-02-18] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-03-04] SELL OPTION: SOXL Qty 6 at $5.11 | Comm: $3.90
+[2025-05-01] BUY PUT OPTION (BEAR HEDGE): TQQQ Qty 9 contracts at $2.00 | Comm: $5.85
+[2025-05-07] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-05-15] SELL OPTION: TQQQ Qty 9 at $0.00 | Comm: $5.85
+[2025-05-21] SELL OPTION: SOXL Qty 6 at $0.00 | Comm: $3.90
+[2025-05-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 5 contracts at $2.00 | Comm: $3.25
+[2025-06-10] SELL OPTION: SOXL Qty 5 at $0.00 | Comm: $3.25
+[2025-06-11] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 3 contracts at $2.00 | Comm: $1.95
+[2025-06-26] SELL OPTION: SOXL Qty 3 at $0.32 | Comm: $1.95
+
+========================================
+Run 2024-07-23 to 2025-07-24 | Final Val: $1910.39
+========================================
+[2024-07-24] BUY SHARES: SOXL Qty 100 at $42.42 | Comm: $1.00
+[2024-07-24] BUY SHARES: TQQQ Qty 19 at $32.19 | Comm: $1.00
+[2024-08-23] SELL SHARES: TQQQ Qty 19 at $34.69 | Comm: $1.00
+[2024-09-03] SELL SHARES: SOXL Qty 100 at $29.74 | Comm: $1.00
+[2024-09-10] BUY SHARES: TQQQ Qty 107 at $29.85 | Comm: $1.00
+[2024-09-24] SELL SHARES: TQQQ Qty 107 at $35.24 | Comm: $1.00
+[2024-09-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2024-10-11] SELL OPTION: SOXL Qty 6 at $1.73 | Comm: $3.90
+[2025-01-07] BUY SHARES: TQQQ Qty 89 at $39.91 | Comm: $1.00
+[2025-02-14] SELL SHARES: TQQQ Qty 89 at $44.47 | Comm: $1.00
+[2025-02-18] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-03-04] SELL OPTION: SOXL Qty 6 at $5.11 | Comm: $3.90
+[2025-05-01] BUY PUT OPTION (BEAR HEDGE): TQQQ Qty 9 contracts at $2.00 | Comm: $5.85
+[2025-05-07] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-05-15] SELL OPTION: TQQQ Qty 9 at $0.00 | Comm: $5.85
+[2025-05-21] SELL OPTION: SOXL Qty 6 at $0.00 | Comm: $3.90
+[2025-05-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 5 contracts at $2.00 | Comm: $3.25
+[2025-06-10] SELL OPTION: SOXL Qty 5 at $0.00 | Comm: $3.25
+[2025-06-11] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 3 contracts at $2.00 | Comm: $1.95
+[2025-06-26] SELL OPTION: SOXL Qty 3 at $0.32 | Comm: $1.95
+
+========================================
+Run 2024-06-25 to 2025-06-26 | Final Val: $1910.39
+========================================
+[2024-07-24] BUY SHARES: SOXL Qty 100 at $42.42 | Comm: $1.00
+[2024-07-24] BUY SHARES: TQQQ Qty 19 at $32.19 | Comm: $1.00
+[2024-08-23] SELL SHARES: TQQQ Qty 19 at $34.69 | Comm: $1.00
+[2024-09-03] SELL SHARES: SOXL Qty 100 at $29.74 | Comm: $1.00
+[2024-09-10] BUY SHARES: TQQQ Qty 107 at $29.85 | Comm: $1.00
+[2024-09-24] SELL SHARES: TQQQ Qty 107 at $35.24 | Comm: $1.00
+[2024-09-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2024-10-11] SELL OPTION: SOXL Qty 6 at $1.73 | Comm: $3.90
+[2025-01-07] BUY SHARES: TQQQ Qty 89 at $39.91 | Comm: $1.00
+[2025-02-14] SELL SHARES: TQQQ Qty 89 at $44.47 | Comm: $1.00
+[2025-02-18] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-03-04] SELL OPTION: SOXL Qty 6 at $5.11 | Comm: $3.90
+[2025-05-01] BUY PUT OPTION (BEAR HEDGE): TQQQ Qty 9 contracts at $2.00 | Comm: $5.85
+[2025-05-07] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-05-15] SELL OPTION: TQQQ Qty 9 at $0.00 | Comm: $5.85
+[2025-05-21] SELL OPTION: SOXL Qty 6 at $0.00 | Comm: $3.90
+[2025-05-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 5 contracts at $2.00 | Comm: $3.25
+[2025-06-10] SELL OPTION: SOXL Qty 5 at $0.00 | Comm: $3.25
+[2025-06-11] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 3 contracts at $2.00 | Comm: $1.95
+[2025-06-26] SELL OPTION: SOXL Qty 3 at $0.32 | Comm: $1.95
+
+========================================
+Run 2024-06-27 to 2025-06-30 | Final Val: $1910.39
+========================================
+[2024-07-24] BUY SHARES: SOXL Qty 100 at $42.42 | Comm: $1.00
+[2024-07-24] BUY SHARES: TQQQ Qty 19 at $32.19 | Comm: $1.00
+[2024-08-23] SELL SHARES: TQQQ Qty 19 at $34.69 | Comm: $1.00
+[2024-09-03] SELL SHARES: SOXL Qty 100 at $29.74 | Comm: $1.00
+[2024-09-10] BUY SHARES: TQQQ Qty 107 at $29.85 | Comm: $1.00
+[2024-09-24] SELL SHARES: TQQQ Qty 107 at $35.24 | Comm: $1.00
+[2024-09-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2024-10-11] SELL OPTION: SOXL Qty 6 at $1.73 | Comm: $3.90
+[2025-01-07] BUY SHARES: TQQQ Qty 89 at $39.91 | Comm: $1.00
+[2025-02-14] SELL SHARES: TQQQ Qty 89 at $44.47 | Comm: $1.00
+[2025-02-18] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-03-04] SELL OPTION: SOXL Qty 6 at $5.11 | Comm: $3.90
+[2025-05-01] BUY PUT OPTION (BEAR HEDGE): TQQQ Qty 9 contracts at $2.00 | Comm: $5.85
+[2025-05-07] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 6 contracts at $2.00 | Comm: $3.90
+[2025-05-15] SELL OPTION: TQQQ Qty 9 at $0.00 | Comm: $5.85
+[2025-05-21] SELL OPTION: SOXL Qty 6 at $0.00 | Comm: $3.90
+[2025-05-27] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 5 contracts at $2.00 | Comm: $3.25
+[2025-06-10] SELL OPTION: SOXL Qty 5 at $0.00 | Comm: $3.25
+[2025-06-11] BUY PUT OPTION (BEAR HEDGE): SOXL Qty 3 contracts at $2.00 | Comm: $1.95
+[2025-06-26] SELL OPTION: SOXL Qty 3 at $0.32 | Comm: $1.95

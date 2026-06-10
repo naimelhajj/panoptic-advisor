@@ -1,0 +1,52 @@
+name: Daily Advisor Automation
+
+on:
+  schedule:
+    # Run at 8:00 AM UTC (4:00 AM Eastern) every weekday
+    - cron: '0 8 * * 1-5'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-name: Generate Dashboard and Publish
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yfinance pandas numpy
+
+      - name: Run Daily Advisor Generator
+        run: python generate_html_advisor.py
+
+      - name: Commit history updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add advisor_history.json advisor_dashboard.html
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update daily advisor history and HTML dashboard"
+          git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
