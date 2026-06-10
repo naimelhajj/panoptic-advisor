@@ -4,10 +4,10 @@ import json
 import os
 from datetime import datetime
 
-WATCHLIST_PATH = 'C:/development/stocks-finder/watchlist.json'
-CATALYSTS_PATH = 'C:/development/stocks-finder/upcoming_catalysts.json'
-HISTORY_PATH = 'C:/development/stocks-finder/advisor_history.json'
-OUTPUT_HTML = 'C:/development/stocks-finder/advisor_dashboard.html'
+WATCHLIST_PATH = 'watchlist.json'
+CATALYSTS_PATH = 'upcoming_catalysts.json'
+HISTORY_PATH = 'advisor_history.json'
+OUTPUT_HTML = 'advisor_dashboard.html'
 
 def load_json(filepath):
     if os.path.exists(filepath):
