@@ -177,7 +177,9 @@ class IntelligentFPBVBot:
                 df['EMA_200'] = df['Close'].ewm(span=200, adjust=False).mean()
                 
                 latest = df.iloc[-1]
-                close_price = float(latest['Close'])
+                # yfinance sometimes returns NaN for the most recent candle -
+                # fall back to the last valid close price to avoid NaN errors
+                close_price = float(df['Close'].dropna().iloc[-1])
                 rsi = float(latest['RSI'])
                 ema_20 = float(latest['EMA_20'])
                 ema_200 = float(latest['EMA_200'])
