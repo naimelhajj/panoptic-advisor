@@ -177,9 +177,14 @@ class IntelligentFPBVBot:
                 df['EMA_200'] = df['Close'].ewm(span=200, adjust=False).mean()
                 
                 latest = df.iloc[-1]
-                # yfinance sometimes returns NaN for the most recent candle -
-                # fall back to the last valid close price to avoid NaN errors
-                close_price = float(df['Close'].dropna().iloc[-1])
+                # Use fast_info.last_price for the live price - avoids the
+                # yfinance history NaN lag bug on the most recent candle
+                try:
+                    close_price = float(stock.fast_info.last_price)
+                    if not close_price or close_price != close_price:  # NaN check
+                        raise ValueError("fast_info returned invalid price")
+                except Exception:
+                    close_price = float(df['Close'].dropna().iloc[-1])
                 rsi = float(latest['RSI'])
                 ema_20 = float(latest['EMA_20'])
                 ema_200 = float(latest['EMA_200'])
