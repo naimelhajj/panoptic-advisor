@@ -105,9 +105,10 @@ def scrape_sp500_tickers():
             "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies", 
             headers={'User-Agent': 'Mozilla/5.0'}
         )
+        import io
         with urllib.request.urlopen(req) as response:
-            html = response.read()
-        tables = pd.read_html(html)
+            html = response.read().decode('utf-8')
+        tables = pd.read_html(io.StringIO(html))
         df = tables[0]
         tickers = df['Symbol'].tolist()
         # Replace dot with dash for Yahoo Finance compatibility (e.g. BRK.B -> BRK-B)
