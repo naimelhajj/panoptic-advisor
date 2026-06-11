@@ -102,7 +102,7 @@ def scrape_sp500_tickers():
     print("Scraping S&P 500 ticker list from Wikipedia...")
     try:
         req = urllib.request.Request(
-            "https://en.wikipedia.org/wiki/List_of_S&P_500_companies", 
+            "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies", 
             headers={'User-Agent': 'Mozilla/5.0'}
         )
         with urllib.request.urlopen(req) as response:
@@ -115,7 +115,9 @@ def scrape_sp500_tickers():
         print(f"Scraped {len(tickers)} tickers successfully.")
         return tickers
     except Exception as e:
-        print(f"Error scraping S&P 500 tickers: {e}")
+        err_msg = str(e)
+        if len(err_msg) > 200: err_msg = err_msg[:200] + "... [HTML TRUNCATED]"
+        print(f"Error scraping S&P 500 tickers: {err_msg}")
         # Fallback to a small list of highly liquid tech stocks
         return ["AAPL", "MSFT", "AMZN", "NVDA", "GOOGL", "META", "TSLA", "AVGO", "VRT", "ENPH", "RYCEY"]
 
