@@ -172,19 +172,23 @@ class IntelligentFPBVBot:
                 if short_percent is None:
                     short_percent = 0.0
                     
+                # Get live price via fast_info to avoid yfinance history NaN lag bug
+                try:
+                    live_price = float(stock.fast_info.last_price)
+                    if not live_price or live_price != live_price:
+                        raise ValueError("fast_info returned invalid price")
+                except Exception:
+                    live_price = float(df['Close'].dropna().iloc[-1])
+
+                # Inject live price into last row so RSI/EMA reflect the true latest close
+                df.iloc[-1, df.columns.get_loc('Close')] = live_price
+
                 df['RSI'] = self.calculate_rsi(df['Close'])
                 df['EMA_20'] = df['Close'].ewm(span=20, adjust=False).mean()
                 df['EMA_200'] = df['Close'].ewm(span=200, adjust=False).mean()
                 
                 latest = df.iloc[-1]
-                # Use fast_info.last_price for the live price - avoids the
-                # yfinance history NaN lag bug on the most recent candle
-                try:
-                    close_price = float(stock.fast_info.last_price)
-                    if not close_price or close_price != close_price:  # NaN check
-                        raise ValueError("fast_info returned invalid price")
-                except Exception:
-                    close_price = float(df['Close'].dropna().iloc[-1])
+                close_price = live_price
                 rsi = float(latest['RSI'])
                 ema_20 = float(latest['EMA_20'])
                 ema_200 = float(latest['EMA_200'])
