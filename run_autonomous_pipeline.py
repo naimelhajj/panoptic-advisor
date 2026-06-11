@@ -41,7 +41,7 @@ def main():
     if args.reset_state:
         bot_args.append("--reset-state")
         
-    run_script("intelligent_bot.py", bot_args)
+    run_script("ibkr_paper_trader.py", bot_args)
     
     print("\n" + "#"*100)
     print("   AUTONOMOUS PIPELINE RUN COMPLETED SUCCESSFULLY.")

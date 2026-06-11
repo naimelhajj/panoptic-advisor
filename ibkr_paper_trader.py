@@ -195,5 +195,18 @@ class IBKRPaperTrader(IntelligentFPBVBot):
         print("\nPaper trading execution sweep complete.")
 
 if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description="IBKR Paper Trading execution")
+    parser.add_argument("--starting-cash", type=float, default=300.00, help="Initial cash for bot state")
+    parser.add_argument("--reset-state", action="store_true", help="Reset bot state file")
+    args = parser.parse_args()
+    
     bot = IBKRPaperTrader()
+    
+    # Overwrite cash manually if reset was requested
+    if args.reset_state:
+        bot.state["current_cash"] = args.starting_cash
+        bot.state["portfolio_phase"] = 0
+        bot.save_state()
+        
     bot.evaluate_signals()
