@@ -234,7 +234,7 @@ class IntelligentFPBVBot:
                 else:
                     # Check entries based on Phase
                     if phase == 0:
-                        # Phase 0: Capped Sizing & Index ETFs Focus
+                        # Phase 0: Capped Sizing & Index ETFs Focus + Asymmetric Earnings Bets
                         if is_etf and rsi < 35.0:
                             # Option first if bull and cash permits
                             est_premium = close_price * 0.05
@@ -247,6 +247,16 @@ class IntelligentFPBVBot:
                                 if not is_bear_market:
                                     signal = "BUY_SHARES"
                                     action_desc = f"Phase 0 ETF Swing Fallback: RSI oversold ({rsi:.1f}). Buy ETF shares."
+                        elif not is_etf and rsi < 30.0:
+                            if ticker in self.catalysts:
+                                cat = self.catalysts[ticker]
+                                if short_percent >= 0.10:
+                                    signal = "BUY_CALL_OPTION"
+                                    action_desc = f"Phase 0 Asymmetric Catalyst: oversold ({rsi:.1f}), high short ({short_percent*100:.1f}%) with upcoming earnings on {cat['earnings_date']}."
+                                else:
+                                    action_desc = f"Oversold stock ({rsi:.1f}) bypassed: short interest too low ({short_percent*100:.1f}% < 10%) for squeeze."
+                            else:
+                                action_desc = f"Oversold stock ({rsi:.1f}) bypassed: no upcoming earnings catalyst in catalysts database."
                                     
                     elif phase == 1:
                         # Phase 1: High-Asymmetry
