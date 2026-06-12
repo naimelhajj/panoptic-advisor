@@ -98,29 +98,45 @@ CORE_TICKERS = {
     }
 }
 
-def scrape_sp500_tickers():
-    print("Scraping S&P 500 ticker list from Wikipedia...")
-    try:
-        req = urllib.request.Request(
-            "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies", 
-            headers={'User-Agent': 'Mozilla/5.0'}
-        )
-        import io
-        with urllib.request.urlopen(req) as response:
-            html = response.read().decode('utf-8')
-        tables = pd.read_html(io.StringIO(html))
-        df = tables[0]
-        tickers = df['Symbol'].tolist()
-        # Replace dot with dash for Yahoo Finance compatibility (e.g. BRK.B -> BRK-B)
-        tickers = [t.replace('.', '-') for t in tickers]
-        print(f"Scraped {len(tickers)} tickers successfully.")
-        return tickers
-    except Exception as e:
-        err_msg = str(e)
-        if len(err_msg) > 200: err_msg = err_msg[:200] + "... [HTML TRUNCATED]"
-        print(f"Error scraping S&P 500 tickers: {err_msg}")
-        # Fallback to a small list of highly liquid tech stocks
+def scrape_market_tickers():
+    print("Scraping market tickers (S&P 500, Nasdaq 100, Russell 1000) from Wikipedia...")
+    tickers = set()
+    import io
+    
+    sources = [
+        ("S&P 500", "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies", "Symbol"),
+        ("Nasdaq 100", "https://en.wikipedia.org/wiki/Nasdaq-100", "Ticker"),
+        ("Russell 1000", "https://en.wikipedia.org/wiki/Russell_1000_Index", "Symbol")
+    ]
+    
+    for name, url, col in sources:
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req) as response:
+                html = response.read().decode('utf-8')
+            tables = pd.read_html(io.StringIO(html))
+            
+            for df in tables:
+                if col in df.columns:
+                    t = df[col].dropna().tolist()
+                    tickers.update(t)
+                    print(f"Scraped {len(t)} tickers from {name}.")
+                    break
+        except Exception as e:
+            err_msg = str(e)
+            if len(err_msg) > 200: err_msg = err_msg[:200] + "... [HTML TRUNCATED]"
+            print(f"Error scraping {name}: {err_msg}")
+            
+    if not tickers:
+        print("All scraping failed. Using fallback list.")
         return ["AAPL", "MSFT", "AMZN", "NVDA", "GOOGL", "META", "TSLA", "AVGO", "VRT", "ENPH", "RYCEY"]
+        
+    tickers_list = list(tickers)
+    # Replace dot with dash for Yahoo Finance compatibility (e.g. BRK.B -> BRK-B)
+    tickers_list = [str(t).replace('.', '-') for t in tickers_list]
+    tickers_list = list(set(tickers_list)) # deduplicate again after dash conversion
+    print(f"Total unique tickers scraped: {len(tickers_list)}")
+    return tickers_list
 
 def audit_ticker(ticker):
     """Audits a single ticker's fundamentals. Returns details if it passes solvency checks, else None."""
@@ -178,7 +194,7 @@ def generate_watchlist():
     print("   AUTONOMOUS FPBV WATCHLIST GENERATOR (100% Automated Discovery & Audit)")
     print("="*80)
     
-    sp500_tickers = scrape_sp500_tickers()
+    tickers = scrape_market_tickers()
     
     # We load existing watchlist to preserve CORE_TICKERS or other manually locked assets
     existing_watchlist = {}
@@ -195,11 +211,11 @@ def generate_watchlist():
     for ticker, details in CORE_TICKERS.items():
         new_watchlist[ticker] = details
         
-    print(f"Auditing {len(sp500_tickers)} stocks in parallel (Max Workers: {MAX_WORKERS})...")
+    print(f"Auditing {len(tickers)} stocks in parallel (Max Workers: {MAX_WORKERS})...")
     
     passed_count = 0
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {executor.submit(audit_ticker, ticker): ticker for ticker in sp500_tickers}
+        futures = {executor.submit(audit_ticker, ticker): ticker for ticker in tickers}
         
         for future in as_completed(futures):
             ticker = futures[future]
@@ -210,7 +226,7 @@ def generate_watchlist():
                 print(f"  [PASS] {ticker:<6} | {result['Name'][:35]:<35} | Margin: {result['Sector']}", end="\r")
                 sys.stdout.flush()
                 
-    print(f"\nAudit complete. {passed_count} S&P 500 stocks passed all solvency checks.")
+    print(f"\nAudit complete. {passed_count} market stocks passed all solvency checks.")
     
     # Save the new watchlist
     try:
