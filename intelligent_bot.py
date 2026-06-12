@@ -161,6 +161,25 @@ class IntelligentFPBVBot:
         # Download technicals for watchlist
         candidates = []
         for ticker, details in self.watchlist.items():
+            is_etf = details.get('Type') == 'ETF'
+            has_catalyst = ticker in self.catalysts
+            is_active = ticker in self.state.get("active_positions", {})
+            
+            # Optimization: Skip expensive 120-day yfinance downloads for stocks 
+            # that have no catalyst and aren't in active positions.
+            if not (is_etf or has_catalyst or is_active):
+                candidates.append({
+                    "Ticker": ticker,
+                    "Close": 0.0,
+                    "RSI_14": 0.0,
+                    "EMA_20": 0.0,
+                    "Signal": "HOLD",
+                    "Action_Details": "Bypassed (No Catalyst)",
+                    "Type": details.get('Type', 'Stock'),
+                    "Thesis": details.get('Thesis', '')
+                })
+                continue
+
             try:
                 stock = yf.Ticker(ticker)
                 df = stock.history(period="120d")
