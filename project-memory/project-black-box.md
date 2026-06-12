@@ -165,3 +165,17 @@ Record failures, mistakes, near misses, mitigations, and lessons learned.
   - Mitigation: Abandoned the micro-account stock strategy. Pivoted entirely to non-market leverage (Facebook Ads + Whop Funnel).
   - Lesson: Do not try to find a mathematical edge against Market Makers in low-liquidity options (negative EV) when you possess actual non-market business leverage.
   - Status: Resolved. Trading bot paused until $2,500 margin threshold is reached via business cash flow.
+
+### INC-012 — The "Invalid Crumb" API Blackout
+- Date: `2026-06-12 09:40 +02:00`
+- Type: API limitation / failure
+- Severity: medium
+- What happened: When scaling the bot from 10 stocks to the full 432-stock Russell 1000/Nasdaq-100 universe, Yahoo Finance began throwing `401 Unauthorized (Invalid Crumb)` errors and returning `NaN` historical prices.
+- Expected: The bot should loop through 400+ stocks and download their 120-day history smoothly.
+- Actual: The bot triggered anti-scraping rate limits, causing indicator calculations to fail.
+- Root cause: `yfinance` rate limits block consecutive high-volume requests. Furthermore, sequentially downloading 120 days of data for 400 stocks every day was an architectural flaw because the bot was doing expensive data pulls for stocks that didn't even have upcoming earnings.
+- Detection gap: We didn't anticipate the rate limit because previous tests ran on small watchlists.
+- Immediate mitigation: Injected live prices via `fast_info` as a fallback to patch `NaN` gaps.
+- Systemic prevention: Radically optimized the logic in `intelligent_bot.py`. The bot now checks if a stock has an active position or upcoming earnings *before* calling the API. If neither is true, it completely bypasses the 120-day history download. This dropped daily API calls from 432 down to ~15, entirely circumventing rate limits, eliminating the need to pay for a Polygon.io Options tier, and accelerating execution to near-instant speeds.
+- Owner / next review: `master`
+- Status: resolved
