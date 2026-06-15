@@ -6,8 +6,10 @@
         "action_class": "action-call",
         "price": 262.04,
         "rsi": 56.4,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-06-15",
+        "exit_price": 279.62
     },
     {
         "date": "2026-06-10",
@@ -16,8 +18,10 @@
         "action_class": "action-call",
         "price": 480.69,
         "rsi": 45.2,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-06-15",
+        "exit_price": 467.74
     },
     {
         "date": "2026-06-12",
@@ -36,6 +40,26 @@
         "action_class": "action-call",
         "price": 476.42,
         "rsi": 39.2,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-06-15",
+        "ticker": "AVGO",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 382.07,
+        "rsi": 42.6,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-06-15",
+        "ticker": "CRWD",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 682.8,
+        "rsi": 52.7,
         "status": "OPEN",
         "starred": true
     }
