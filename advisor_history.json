@@ -62,5 +62,25 @@
         "rsi": 52.7,
         "status": "OPEN",
         "starred": true
+    },
+    {
+        "date": "2026-06-16",
+        "ticker": "CRWD",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 692.91,
+        "rsi": 52.9,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-06-16",
+        "ticker": "PANW",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 284.54,
+        "rsi": 61.2,
+        "status": "OPEN",
+        "starred": true
     }
 ]
