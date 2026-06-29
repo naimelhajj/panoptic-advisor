@@ -150,8 +150,10 @@
         "action_class": "action-call",
         "price": 79.34,
         "rsi": 64.9,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-06-29",
+        "exit_price": 80.98
     },
     {
         "date": "2026-06-22",
@@ -160,8 +162,10 @@
         "action_class": "action-call",
         "price": 456.13,
         "rsi": 28.4,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-06-29",
+        "exit_price": 488.45
     },
     {
         "date": "2026-06-23",
@@ -170,8 +174,10 @@
         "action_class": "action-call",
         "price": 392.13,
         "rsi": 36.7,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-06-29",
+        "exit_price": 365.02
     },
     {
         "date": "2026-06-23",
@@ -180,8 +186,10 @@
         "action_class": "action-call",
         "price": 675.44,
         "rsi": 26.9,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-06-29",
+        "exit_price": 701.09
     },
     {
         "date": "2026-06-24",
@@ -190,8 +198,10 @@
         "action_class": "action-call",
         "price": 290.92,
         "rsi": 46.0,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-06-29",
+        "exit_price": 304.2
     },
     {
         "date": "2026-06-24",
@@ -200,8 +210,10 @@
         "action_class": "action-call",
         "price": 459.33,
         "rsi": 35.5,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-06-29",
+        "exit_price": 488.45
     },
     {
         "date": "2026-06-25",
@@ -240,6 +252,26 @@
         "action_class": "action-call",
         "price": 485.52,
         "rsi": 59.9,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-06-29",
+        "ticker": "BF-B",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 27.96,
+        "rsi": 69.1,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-06-29",
+        "ticker": "VEEV",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 171.36,
+        "rsi": 48.8,
         "status": "OPEN",
         "starred": true
     }
