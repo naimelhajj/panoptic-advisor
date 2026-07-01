@@ -246,8 +246,10 @@
         "action_class": "action-call",
         "price": 293.09,
         "rsi": 59.3,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-01",
+        "exit_price": 341.02
     },
     {
         "date": "2026-06-26",
@@ -256,8 +258,10 @@
         "action_class": "action-call",
         "price": 485.52,
         "rsi": 59.9,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-01",
+        "exit_price": 450.98
     },
     {
         "date": "2026-06-29",
@@ -296,6 +300,26 @@
         "action_class": "action-call",
         "price": 742.91,
         "rsi": 72.0,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-01",
+        "ticker": "AVGO",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 377.75,
+        "rsi": 45.8,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-01",
+        "ticker": "MDT",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 78.23,
+        "rsi": 38.9,
         "status": "OPEN",
         "starred": true
     }
