@@ -390,8 +390,10 @@
         "action_class": "action-call",
         "price": 348.06,
         "rsi": 84.3,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-13",
+        "exit_price": 325.91
     },
     {
         "date": "2026-07-06",
@@ -400,8 +402,10 @@
         "action_class": "action-call",
         "price": 461.33,
         "rsi": 44.2,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-13",
+        "exit_price": 469.2
     },
     {
         "date": "2026-07-07",
@@ -410,8 +414,10 @@
         "action_class": "action-call",
         "price": 373.9,
         "rsi": 47.6,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-13",
+        "exit_price": 399.97
     },
     {
         "date": "2026-07-07",
@@ -420,8 +426,10 @@
         "action_class": "action-call",
         "price": 199.38,
         "rsi": 82.6,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-13",
+        "exit_price": 187.18
     },
     {
         "date": "2026-07-08",
@@ -430,8 +438,10 @@
         "action_class": "action-call",
         "price": 370.78,
         "rsi": 42.4,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-13",
+        "exit_price": 399.97
     },
     {
         "date": "2026-07-08",
@@ -440,8 +450,10 @@
         "action_class": "action-call",
         "price": 194.62,
         "rsi": 73.1,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-13",
+        "exit_price": 187.18
     },
     {
         "date": "2026-07-09",
@@ -480,6 +492,26 @@
         "action_class": "action-call",
         "price": 460.24,
         "rsi": 54.2,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-13",
+        "ticker": "MDT",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 83.87,
+        "rsi": 66.6,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-13",
+        "ticker": "VEEV",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 190.12,
+        "rsi": 84.5,
         "status": "OPEN",
         "starred": true
     }
