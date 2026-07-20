@@ -510,8 +510,10 @@
         "action_class": "action-call",
         "price": 83.87,
         "rsi": 66.6,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-20",
+        "exit_price": 83.2
     },
     {
         "date": "2026-07-13",
@@ -520,8 +522,10 @@
         "action_class": "action-call",
         "price": 190.12,
         "rsi": 84.5,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-20",
+        "exit_price": 195.38
     },
     {
         "date": "2026-07-14",
@@ -540,8 +544,10 @@
         "action_class": "action-call",
         "price": 384.05,
         "rsi": 46.8,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-20",
+        "exit_price": 370.83
     },
     {
         "date": "2026-07-14",
@@ -550,8 +556,10 @@
         "action_class": "action-call",
         "price": 187.91,
         "rsi": 65.4,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-20",
+        "exit_price": 203.08
     },
     {
         "date": "2026-07-15",
@@ -560,8 +568,10 @@
         "action_class": "action-call",
         "price": 210.73,
         "rsi": 74.3,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-20",
+        "exit_price": 203.08
     },
     {
         "date": "2026-07-15",
@@ -570,8 +580,10 @@
         "action_class": "action-call",
         "price": 193.09,
         "rsi": 79.2,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-20",
+        "exit_price": 195.38
     },
     {
         "date": "2026-07-16",
@@ -620,6 +632,26 @@
         "action_class": "action-call",
         "price": 478.86,
         "rsi": 46.7,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-20",
+        "ticker": "PANW",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 358.68,
+        "rsi": 66.9,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-20",
+        "ticker": "ULTA",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 479.57,
+        "rsi": 45.5,
         "status": "OPEN",
         "starred": true
     }
