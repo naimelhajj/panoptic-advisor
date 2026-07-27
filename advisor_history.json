@@ -650,8 +650,10 @@
         "action_class": "action-call",
         "price": 358.68,
         "rsi": 66.9,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-27",
+        "exit_price": 323.79
     },
     {
         "date": "2026-07-20",
@@ -660,8 +662,10 @@
         "action_class": "action-call",
         "price": 479.57,
         "rsi": 45.5,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-27",
+        "exit_price": 475.36
     },
     {
         "date": "2026-07-21",
@@ -680,8 +684,10 @@
         "action_class": "action-call",
         "price": 378.16,
         "rsi": 52.2,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-27",
+        "exit_price": 381.92
     },
     {
         "date": "2026-07-21",
@@ -690,8 +696,10 @@
         "action_class": "action-call",
         "price": 198.49,
         "rsi": 58.4,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-27",
+        "exit_price": 183.28
     },
     {
         "date": "2026-07-22",
@@ -710,8 +718,10 @@
         "action_class": "action-call",
         "price": 386.5,
         "rsi": 53.3,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-27",
+        "exit_price": 381.92
     },
     {
         "date": "2026-07-22",
@@ -720,8 +730,10 @@
         "action_class": "action-call",
         "price": 191.15,
         "rsi": 50.2,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-27",
+        "exit_price": 183.28
     },
     {
         "date": "2026-07-23",
@@ -760,6 +772,36 @@
         "action_class": "action-call",
         "price": 477.96,
         "rsi": 61.6,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-27",
+        "ticker": "TQQQ",
+        "action": "BUY SHARES (15%)",
+        "action_class": "action-buy",
+        "price": 64.0,
+        "rsi": 32.0,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-27",
+        "ticker": "MDT",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 83.21,
+        "rsi": 50.5,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-27",
+        "ticker": "VEEV",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 186.24,
+        "rsi": 44.2,
         "status": "OPEN",
         "starred": true
     }
