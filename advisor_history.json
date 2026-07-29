@@ -766,8 +766,10 @@
         "action_class": "action-call",
         "price": 325.63,
         "rsi": 42.1,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-29",
+        "exit_price": 319.0
     },
     {
         "date": "2026-07-24",
@@ -776,8 +778,10 @@
         "action_class": "action-call",
         "price": 477.96,
         "rsi": 61.6,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-07-29",
+        "exit_price": 501.52
     },
     {
         "date": "2026-07-27",
@@ -826,6 +830,36 @@
         "action_class": "action-call",
         "price": 180.11,
         "rsi": 40.5,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-29",
+        "ticker": "TQQQ",
+        "action": "BUY SHARES (15%)",
+        "action_class": "action-buy",
+        "price": 61.56,
+        "rsi": 32.7,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-29",
+        "ticker": "AVGO",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 380.91,
+        "rsi": 46.4,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-07-29",
+        "ticker": "CRWD",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 181.8,
+        "rsi": 43.7,
         "status": "OPEN",
         "starred": true
     }
