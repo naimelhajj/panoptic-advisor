@@ -882,8 +882,10 @@
         "action_class": "action-call",
         "price": 314.15,
         "rsi": 37.0,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-04",
+        "exit_price": NaN
     },
     {
         "date": "2026-07-30",
@@ -892,8 +894,10 @@
         "action_class": "action-call",
         "price": 508.09,
         "rsi": 76.5,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-04",
+        "exit_price": NaN
     },
     {
         "date": "2026-07-31",
@@ -942,6 +946,16 @@
         "action_class": "action-call",
         "price": 512.83,
         "rsi": 72.0,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-08-04",
+        "ticker": "SOXL",
+        "action": "BUY SHARES (15%)",
+        "action_class": "action-buy",
+        "price": NaN,
+        "rsi": 30.5,
         "status": "OPEN",
         "starred": true
     }
