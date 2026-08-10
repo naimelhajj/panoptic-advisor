@@ -940,8 +940,10 @@
         "action_class": "action-call",
         "price": 331.83,
         "rsi": 50.8,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-10",
+        "exit_price": 363.86
     },
     {
         "date": "2026-08-03",
@@ -950,8 +952,10 @@
         "action_class": "action-call",
         "price": 512.83,
         "rsi": 72.0,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-10",
+        "exit_price": 565.15
     },
     {
         "date": "2026-08-04",
@@ -970,8 +974,10 @@
         "action_class": "action-call",
         "price": 418.16,
         "rsi": 59.4,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-10",
+        "exit_price": 427.76
     },
     {
         "date": "2026-08-05",
@@ -980,8 +986,10 @@
         "action_class": "action-call",
         "price": 211.22,
         "rsi": 53.6,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-10",
+        "exit_price": 214.42
     },
     {
         "date": "2026-08-06",
@@ -1020,6 +1028,26 @@
         "action_class": "action-call",
         "price": 538.79,
         "rsi": 78.1,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-08-10",
+        "ticker": "BF-B",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 28.52,
+        "rsi": 63.9,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-08-10",
+        "ticker": "MDT",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 87.16,
+        "rsi": 65.5,
         "status": "OPEN",
         "starred": true
     }
