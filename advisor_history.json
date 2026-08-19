@@ -790,8 +790,10 @@
         "action_class": "action-buy",
         "price": 64.0,
         "rsi": 32.0,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-19",
+        "exit_price": 72.53
     },
     {
         "date": "2026-07-27",
@@ -848,8 +850,10 @@
         "action_class": "action-buy",
         "price": 61.56,
         "rsi": 32.7,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-19",
+        "exit_price": 72.53
     },
     {
         "date": "2026-07-29",
@@ -906,8 +910,10 @@
         "action_class": "action-buy",
         "price": 63.3,
         "rsi": 31.6,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-19",
+        "exit_price": 72.53
     },
     {
         "date": "2026-07-31",
@@ -1142,8 +1148,10 @@
         "action_class": "action-call",
         "price": 396.0,
         "rsi": 82.5,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-19",
+        "exit_price": 374.14
     },
     {
         "date": "2026-08-14",
@@ -1152,8 +1160,10 @@
         "action_class": "action-call",
         "price": 515.57,
         "rsi": 62.8,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-08-19",
+        "exit_price": 516.74
     },
     {
         "date": "2026-08-17",
@@ -1172,6 +1182,26 @@
         "action_class": "action-call",
         "price": 510.75,
         "rsi": 59.6,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-08-19",
+        "ticker": "AVGO",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 380.0,
+        "rsi": 54.5,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-08-19",
+        "ticker": "CRWD",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 212.92,
+        "rsi": 72.9,
         "status": "OPEN",
         "starred": true
     }
