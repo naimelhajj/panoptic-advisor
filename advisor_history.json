@@ -1224,5 +1224,25 @@
         "rsi": 55.7,
         "status": "OPEN",
         "starred": true
+    },
+    {
+        "date": "2026-08-21",
+        "ticker": "PANW",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 349.56,
+        "rsi": 57.0,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-08-21",
+        "ticker": "ULTA",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 515.14,
+        "rsi": 50.6,
+        "status": "OPEN",
+        "starred": true
     }
 ]
