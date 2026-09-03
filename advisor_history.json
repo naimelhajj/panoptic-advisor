@@ -1440,5 +1440,35 @@
         "rsi": 47.4,
         "status": "OPEN",
         "starred": true
+    },
+    {
+        "date": "2026-09-03",
+        "ticker": "TQQQ",
+        "action": "BUY SHARES (15%)",
+        "action_class": "action-buy",
+        "price": 69.6,
+        "rsi": 29.6,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-09-03",
+        "ticker": "PANW",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 328.48,
+        "rsi": 32.4,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-09-03",
+        "ticker": "ULTA",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 551.74,
+        "rsi": 61.3,
+        "status": "OPEN",
+        "starred": true
     }
 ]
