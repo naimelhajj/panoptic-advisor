@@ -1734,8 +1734,10 @@
         "action_class": "action-call",
         "price": 375.06,
         "rsi": 47.3,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-09-23",
+        "exit_price": NaN
     },
     {
         "date": "2026-09-18",
@@ -1744,8 +1746,10 @@
         "action_class": "action-call",
         "price": 543.73,
         "rsi": 51.3,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-09-23",
+        "exit_price": NaN
     },
     {
         "date": "2026-09-21",
