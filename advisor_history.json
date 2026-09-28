@@ -1758,8 +1758,10 @@
         "action_class": "action-call",
         "price": 92.13,
         "rsi": 53.7,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-09-28",
+        "exit_price": 88.64
     },
     {
         "date": "2026-09-21",
@@ -1768,8 +1770,10 @@
         "action_class": "action-call",
         "price": 260.21,
         "rsi": 35.4,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-09-28",
+        "exit_price": 280.68
     },
     {
         "date": "2026-09-22",
@@ -1778,8 +1782,10 @@
         "action_class": "action-call",
         "price": 362.66,
         "rsi": 45.6,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-09-28",
+        "exit_price": 352.81
     },
     {
         "date": "2026-09-22",
@@ -1788,8 +1794,10 @@
         "action_class": "action-call",
         "price": 249.35,
         "rsi": 58.3,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-09-28",
+        "exit_price": 252.13
     },
     {
         "date": "2026-09-24",
@@ -1828,6 +1836,26 @@
         "action_class": "action-call",
         "price": 548.78,
         "rsi": 48.8,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-09-28",
+        "ticker": "PANW",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 374.74,
+        "rsi": 67.0,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-09-28",
+        "ticker": "ULTA",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 545.2,
+        "rsi": 41.8,
         "status": "OPEN",
         "starred": true
     }
