@@ -2054,8 +2054,10 @@
         "action_class": "action-call",
         "price": 405.57,
         "rsi": 61.8,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-10-13",
+        "exit_price": 403.83
     },
     {
         "date": "2026-10-08",
@@ -2064,8 +2066,10 @@
         "action_class": "action-call",
         "price": 545.48,
         "rsi": 51.2,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-10-13",
+        "exit_price": 567.47
     },
     {
         "date": "2026-10-09",
@@ -2104,6 +2108,36 @@
         "action_class": "action-call",
         "price": 570.37,
         "rsi": 58.2,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-10-13",
+        "ticker": "SOXL",
+        "action": "BUY SHARES (15%)",
+        "action_class": "action-buy",
+        "price": 128.4,
+        "rsi": 34.9,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-10-13",
+        "ticker": "AVGO",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 354.73,
+        "rsi": 44.8,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-10-13",
+        "ticker": "CRWD",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 263.01,
+        "rsi": 57.2,
         "status": "OPEN",
         "starred": true
     }
