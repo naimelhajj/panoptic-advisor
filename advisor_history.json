@@ -2314,5 +2314,35 @@
         "rsi": 79.9,
         "status": "OPEN",
         "starred": true
+    },
+    {
+        "date": "2026-10-23",
+        "ticker": "SOXL",
+        "action": "WAIT / DON't SELL",
+        "action_class": "action-panic",
+        "price": 82.11,
+        "rsi": 10.8,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-10-23",
+        "ticker": "PANW",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 354.92,
+        "rsi": 35.0,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-10-23",
+        "ticker": "ULTA",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 635.01,
+        "rsi": 83.1,
+        "status": "OPEN",
+        "starred": true
     }
 ]
