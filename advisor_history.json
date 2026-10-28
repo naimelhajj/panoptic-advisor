@@ -2314,8 +2314,10 @@
         "action_class": "action-call",
         "price": 347.25,
         "rsi": 34.8,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-10-28",
+        "exit_price": 401.7
     },
     {
         "date": "2026-10-22",
@@ -2324,8 +2326,10 @@
         "action_class": "action-call",
         "price": 606.99,
         "rsi": 79.9,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-10-28",
+        "exit_price": 626.88
     },
     {
         "date": "2026-10-23",
@@ -2344,8 +2348,10 @@
         "action_class": "action-call",
         "price": 354.92,
         "rsi": 35.0,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-10-28",
+        "exit_price": 401.7
     },
     {
         "date": "2026-10-23",
@@ -2354,8 +2360,10 @@
         "action_class": "action-call",
         "price": 635.01,
         "rsi": 83.1,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-10-28",
+        "exit_price": 626.88
     },
     {
         "date": "2026-10-26",
@@ -2384,6 +2392,36 @@
         "action_class": "action-call",
         "price": 624.46,
         "rsi": 77.7,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-10-28",
+        "ticker": "TQQQ",
+        "action": "BUY SHARES (15%)",
+        "action_class": "action-buy",
+        "price": 71.04,
+        "rsi": 31.2,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-10-28",
+        "ticker": "AVGO",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 342.33,
+        "rsi": 33.2,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-10-28",
+        "ticker": "CRWD",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 268.02,
+        "rsi": 51.2,
         "status": "OPEN",
         "starred": true
     }
