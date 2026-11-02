@@ -2382,8 +2382,10 @@
         "action_class": "action-call",
         "price": 380.55,
         "rsi": 42.9,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-11-02",
+        "exit_price": 365.87
     },
     {
         "date": "2026-10-26",
@@ -2392,8 +2394,10 @@
         "action_class": "action-call",
         "price": 624.46,
         "rsi": 77.7,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-11-02",
+        "exit_price": 640.43
     },
     {
         "date": "2026-10-28",
@@ -2412,8 +2416,10 @@
         "action_class": "action-call",
         "price": 342.33,
         "rsi": 33.2,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-11-02",
+        "exit_price": 326.08
     },
     {
         "date": "2026-10-28",
@@ -2422,8 +2428,10 @@
         "action_class": "action-call",
         "price": 268.02,
         "rsi": 51.2,
-        "status": "OPEN",
-        "starred": true
+        "status": "CLOSED",
+        "starred": true,
+        "exit_date": "2026-11-02",
+        "exit_price": 250.43
     },
     {
         "date": "2026-10-29",
@@ -2472,6 +2480,26 @@
         "action_class": "action-call",
         "price": 648.28,
         "rsi": 75.1,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-11-02",
+        "ticker": "MDT",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 96.54,
+        "rsi": 61.8,
+        "status": "OPEN",
+        "starred": true
+    },
+    {
+        "date": "2026-11-02",
+        "ticker": "VEEV",
+        "action": "BUY CALLS (3%)",
+        "action_class": "action-call",
+        "price": 312.96,
+        "rsi": 63.1,
         "status": "OPEN",
         "starred": true
     }
